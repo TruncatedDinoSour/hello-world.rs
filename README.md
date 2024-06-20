@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/hello-world.rs>
 # 🚀 hello-world.rs 🚀
 
 🚀 Memory safe, blazing fast, minimal and configurable hello world project written in the rust(🚀) programming language 🚀
